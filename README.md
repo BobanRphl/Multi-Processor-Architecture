@@ -1,2 +1,3 @@
 # Multi-Processor-Architecture
-This repository is a summary of my in class coursework on Multi-Processor Architecture
+
+This branch shows the parallelization of a histogram program using OpenMPI.
